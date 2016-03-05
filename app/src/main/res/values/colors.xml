@@ -1,0 +1,11 @@
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="background">#877759</color>
+    <color name="blue_light">#c3eff3</color>
+    <color name="blue_darker">#ff75f3f0</color>
+    <color name="green_light">#b1c6a4</color>
+    <color name="reddish">#eec3a6</color>
+    <color name="apple_green">#cdeea6</color>
+
+</resources>
